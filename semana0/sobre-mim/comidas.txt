@@ -1,0 +1,5 @@
+1 - Strogonoff
+2 - Pizza 
+3 - Feijoada
+4 - Churrasco
+5 - Sopa de mandioca
