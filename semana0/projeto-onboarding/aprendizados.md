@@ -1,0 +1,3 @@
+# Aprendizados da semana
+
+Sem dúvidas foi uma semana muito bacana e **especial**. Pude conhecer melhor os professores e os métodos de ensino. Aprendi comandos básicos do terminal e algumas coisas **importantes** no Vscode, tbem aprendi sobre como usar o básico do git hub e a forma de enviar meus projetos para ele. Fora essas partes mais técnicas eu entendi como funciona o cronograma do curso e ja estou **preparado** pra começar a me adaptar. Estou **gostando** bastante!
