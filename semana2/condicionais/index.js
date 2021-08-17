@@ -17,7 +17,6 @@ na no espoco da função, ou seja não tem como tirar ele de la com os comandos
 que está nesse código.
 */
 
-
 /*>>>Exercícios de escrita de código<<<
 1.
 const idadeUsuario = Number(prompt("Qual sua idade?"))
@@ -30,6 +29,7 @@ if (idadeUsuario >= 18) {
   }
 */
 // 4.
+
 /*const valorIngresso = Number(prompt("Qual o preço do ingresso?"))
 
 let genero
@@ -41,13 +41,54 @@ if (valorIngresso < 15) {
     console.log("Escolha outro filme :(")
   }
 */
+// 4b. 
 
-const generoFilme = prompt("Qual genêro do filme você irá assistir?")
-let genero = "Fantasia"
+/*const generoFilme = prompt("Qual genêro do filme você irá assistir?");
+let genero = "Fantasia";
 
-if (generoFilme = genero) {
-  console.log("Bom filme")
+if (generoFilme == genero) {
+  console.log("Bom filme");
+} else {
+  console.log("Escolha outro filme :(");
+} */
+
+
+// 2.
+
+/*const turnoDeEstudo = prompt(
+  "Qual turno você estuda? digite M (matutino) ou V (Vespertino) ou N (Noturno)"
+);
+const matutino = "m";
+const vespertino = "v";
+const noturno = "n";
+
+if (turnoDeEstudo == matutino) {
+  console.log("Bom dia!");
 }
-  else{
-    console.log("Escolha outro filme :(")
-  }//nao consegui terminar e nem entender muito bem.
+if (turnoDeEstudo == vespertino) {
+  console.log("Boa tarde!");
+}
+if (turnoDeEstudo == noturno) {
+  console.log("Boa noite!");
+}*/
+
+//3.
+
+/*const turnoDeEstudo = prompt(
+  "Qual turno você estuda? digite M (matutino) ou V (Vespertino) ou N (Noturno)"
+);
+switch (turnoDeEstudo) {
+  case "M":
+    console.log("Bom dia");
+    break;
+  case "V":
+    console.log("Boa tarde");
+    break;
+  case "N":
+    console.log("Boa Noite");
+    break;
+
+  default:
+    console.log("resposta inválida")
+    break;
+}*/
